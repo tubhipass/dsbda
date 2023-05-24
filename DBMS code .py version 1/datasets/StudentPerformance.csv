@@ -1,0 +1,10 @@
+Gender,Math_score,Reading_score,Writing_score,Placement_score,Placement_count,Region
+Male,90,Na,77,80,4,Solapur
+Female,80,80,88,70,2,Pune
+Female,70,86,67,60,6,Mumbai
+Female,65,60,56,90,5,Nagar
+Male,NaN,50,94,76,10,Latur
+Male,Na,33,45,45,8,Nashik
+Male,67,99,76,87,14,Goa
+Female,10,66,32,Na,16,Nanded
+Male,34,NaN,67,50,20,Kolhapur
